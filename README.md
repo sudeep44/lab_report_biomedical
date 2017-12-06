@@ -1,2 +1,2 @@
 # lab_report_biomedical
-MRI Lab report , Ultrasound Lab reort
+MRI Lab report , Ultrasound Lab report
